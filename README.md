@@ -354,4 +354,4 @@ You are free to use, copy, and modify the code for personal and non-commercial p
 
 ---
 
-Developed by Teo · [GitHub](https://github.com/T30dev/Anycubic-Snapmaker-remote-cam-lan)
+Developed by PrintsNCode · [GitHub](https://github.com/PrintsNCode/Anycubic-Snapmaker-remote-cam-lan)
